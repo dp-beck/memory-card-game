@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.ca96adde.css",
+    "main.js": "/memory-card-game/static/js/main.0e5bc1db.js",
+    "static/media/chansey.png": "/memory-card-game/static/media/chansey.e18f45b8e54a384808a6.png",
+    "static/media/butterfree.png": "/memory-card-game/static/media/butterfree.4844b128cd55fb33620f.png",
+    "static/media/bulbasaur.png": "/memory-card-game/static/media/bulbasaur.27853c8916ae57e8c2d8.png",
+    "static/media/articuno.png": "/memory-card-game/static/media/articuno.a3ee1980a4a87d71bbec.png",
+    "static/media/vivillon.png": "/memory-card-game/static/media/vivillon.63d8d8e1e59a9f2634cd.png",
+    "static/media/absol.png": "/memory-card-game/static/media/absol.19ad9a51b721c9eabd4f.png",
+    "static/media/pikachu.png": "/memory-card-game/static/media/pikachu.7c6a8f6cdc7e32f11422.png",
+    "static/media/dragonite.png": "/memory-card-game/static/media/dragonite.6bd4092374a8ba5be1b2.png",
+    "static/media/meowth.png": "/memory-card-game/static/media/meowth.d4b7e5293a2a8e86f28b.png",
+    "static/media/piplup.png": "/memory-card-game/static/media/piplup.2bd24e9b13fa3ff33831.png",
+    "static/media/flareon.png": "/memory-card-game/static/media/flareon.99dfdc0e02ca765b42b8.png",
+    "static/media/turtwig.png": "/memory-card-game/static/media/turtwig.f7b15e138e873b855461.png",
+    "index.html": "/memory-card-game/index.html",
+    "main.ca96adde.css.map": "/memory-card-game/static/css/main.ca96adde.css.map",
+    "main.0e5bc1db.js.map": "/memory-card-game/static/js/main.0e5bc1db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca96adde.css",
+    "static/js/main.0e5bc1db.js"
+  ]
+}

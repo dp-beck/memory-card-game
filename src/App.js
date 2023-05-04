@@ -148,8 +148,10 @@ function App() {
           You get a point everytime you click an image that you have not clicked before.
           The game restarts if you click an image twice. Try to remember what you have clicked!
         </p>
-        <p>Score: {currentScore}</p>
-        <p>High Score: {bestScore} </p>
+        <div className="score">
+          <p>Current Score: {currentScore}</p>
+          <p>High Score: {bestScore} </p>
+        </div>
       </header>
       <div id="gameDiv">
         {[cards.map(card => 
@@ -158,7 +160,7 @@ function App() {
             <p className={card.key}>{card.name}</p>
           </div>)]}
       </div>
-      <footer>Daniel Beck - Copyright 2003</footer>
+      <footer>Daniel Beck - Copyright 2023</footer>
     </div>
     );
   }
